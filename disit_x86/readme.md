@@ -1,6 +1,6 @@
 
 
-This is some disassembler library for mine for X86 architecture. It brings some additional information about the instruction (including how are registers used, how the registers are used (source, dest, source-dest), how memory is used, what flags are used etc.)
+This is some disassembler library of mine for X86 architecture. It brings some additional information about the instruction (including how are registers used, how the registers are used (source, dest, source-dest), how memory is used, what flags are used etc.)
 
 
 Main function is:
